@@ -27,12 +27,3 @@ Sono **Pietro**,specialista cloud con 4 anni di esperienza sui sistemi Cloud.
 |-----------|--------:|--------|
 | [Docker - Microservice](https://github.com/PietroRuoppolo/Docker---Microservice-App-DB-Integration.git) | ⭐ | Docker, Adminer, PostgreSQL|
 | [Three-Tier-Architecture](https://github.com/PietroRuoppolo/Three-Tier-Web-Application-.git) | ⭐ | AWS, Terraform, |
-
-
-
----
-
-### ✉️ Get in touch
-
-- LinkedIn: [il_tuo_link](https://www.linkedin.com/in/IL_TUO_PROFILO)
-- Email: `tua.email@example.com`
