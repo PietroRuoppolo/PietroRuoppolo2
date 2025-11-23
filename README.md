@@ -25,11 +25,10 @@ Sono **Pietro**,specialista cloud con 4 anni di esperienza sui sistemi Cloud.
 
 | 📁 Project | ⭐ Stars | ⚙️ Tech |
 |-----------|--------:|--------|
-| [Three-tier AWS Terraform](https://github.com/TUOUSERNAME/NOME_REPO_3TIER) | ⭐ | AWS, Terraform, RDS, ALB |
-| [Multi-region AWS DR](https://github.com/TUOUSERNAME/NOME_REPO_DR) | ⭐ | AWS, CloudFront, Route53 |
-| [Home Cloud su Raspberry](https://github.com/TUOUSERNAME/NOME_REPO_HOME_CLOUD) | ⭐ | Docker, VPN, Raspberry Pi |
+| [Docker - Microservice](https://github.com/PietroRuoppolo/Docker---Microservice-App-DB-Integration.git) | ⭐ | Docker, Adminer, PostgreSQL|
+| [Three-Tier-Architecture](https://github.com/PietroRuoppolo/Three-Tier-Web-Application-.git) | ⭐ | AWS, Terraform, |
 
-_(Sostituisci i link con i tuoi repository reali)_
+
 
 ---
 
