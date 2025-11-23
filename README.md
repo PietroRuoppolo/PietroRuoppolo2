@@ -1,6 +1,6 @@
-# 👋 Benvenuto sulla mia pagina GitHub! !
+# 👋 Benvenuto sulla mia pagina GitHub!
  
-Sono **Pietro**,specialista cloud con 4 anni di esperienza sui sistemi SAP. 
+Sono **Pietro**,specialista cloud con 4 anni di esperienza sui sistemi Cloud. 
 
 ---
 
