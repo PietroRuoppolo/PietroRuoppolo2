@@ -1,10 +1,10 @@
-# 👋 Benvenuta/o sulla mia pagina GitHub! !
+# 👋 Benvenuto sulla mia pagina GitHub! !
  
-Sono **Piietro Ruoppolo**, appassionato di **cloud (AWS)**, **Kubernetes**, **Docker** e infrastrutture **IaC con Terraform**, con esperienza nel mondo **SAP / PA**.
+Sono **Pietro**,specialista cloud con 4 anni di esperienza sui sistemi SAP. 
 
 ---
 
-### 🛠️ Things I work with
+### 🛠️ Le mie conoscenze:
 
 <!-- Blocchetti colorati (shields.io) -->
 
@@ -21,7 +21,7 @@ Sono **Piietro Ruoppolo**, appassionato di **cloud (AWS)**, **Kubernetes**, **Do
 
 ---
 
-### 📦 Selected projects
+### 📦 I miei progetti
 
 | 📁 Project | ⭐ Stars | ⚙️ Tech |
 |-----------|--------:|--------|
