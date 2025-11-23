@@ -1,6 +1,5 @@
-# 👋 Hey, nice to see you!
-
-Benvenuta/o sulla mia pagina GitHub!  
+# 👋 Benvenuta/o sulla mia pagina GitHub! !
+ 
 Sono **Piietro Ruoppolo**, appassionato di **cloud (AWS)**, **Kubernetes**, **Docker** e infrastrutture **IaC con Terraform**, con esperienza nel mondo **SAP / PA**.
 
 ---
