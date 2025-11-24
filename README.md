@@ -18,6 +18,7 @@ Sono **Pietro**,specialista cloud con 4 anni di esperienza sui sistemi Cloud.
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-232F3E?style=for-the-badge&logo=OpenVPN&logoColor=white)
 
 ---
 
